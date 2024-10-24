@@ -22,8 +22,8 @@ Developing a QR-code component project using HTML and CSS.
 
 ### Links
 
-- Solution URL: [Here]()
-- Live Site URL: [Here]()
+- Solution URL: [Here](https://github.com/TheWraithDev/QR-Code-Component)
+- Live Site URL: [Here](https://thewraithdev.github.io/QR-Code-Component/)
 
 ## My process
 
